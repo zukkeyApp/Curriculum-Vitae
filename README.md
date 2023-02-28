@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|Name|鈴木裕太朗(Yutaro SUzuki)|
+|Name|鈴木裕太朗(Yutaro Suzuki)|
 |Twitter|[@zukkeyApp](https://twitter.com/zukkeyapp)|
 
 ## スキル
