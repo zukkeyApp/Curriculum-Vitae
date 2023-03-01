@@ -111,3 +111,7 @@
 ### 執筆歴
 * [Android StudioではじめるARCore入門](https://amzn.asia/d/auvQ5rK)
 
+## お仕事依頼先
+下記フォームよりお願いいたします。副業の場合も承ります。3日以内に返信させていただきます。
+
+https://forms.gle/Gurj2S9smLZNhibu6
